@@ -1,6 +1,6 @@
 ## 管理你的QBittorrent,Transmission
 
-此项目仅用于收集bug, 并非项目源码
+此项目仅用于收集bug, 并非项目源码, IOS版由于没有开发者账号, 以及电脑无法升级到最新Mac系统无法发布
 
 ### 使用说明
 
@@ -27,6 +27,7 @@
 ### 用爱发电,感想您都支持 
 
 * 如果你觉得对你有帮助可以扫描下面二维码随意打赏下哦！
+
 <img src="images/wechart.jpg" width="220"/><img src="images/alipay.jpg" width="220"/>
 
 
