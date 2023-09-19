@@ -4,7 +4,7 @@
 
 ### 关注我获取更新
 
-<img src="images/qb/wechart_qr.jpg" width="120"/>
+<img src="images/wechart_qr.jpg" width="120"/>
 
 ### 使用说明
 
