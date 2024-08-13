@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "description": "版本号:1.0.1\n更新内容\n 1. 左侧菜单添加了过滤条件\n 2.添加了iPhone的ipa安装包\n请前往GitHub下载",
-  "updateTime": "2023年10月11日09:37:36"
+  "version": "1.0.3",
+  "description": "版本号:1.0.3\n更新内容\n 1. 新增代理设置\n 2.修复Tracker[全部]数量显示问题\n 3.修复种子列表标题栏显示不全\n 4.其他bug修复,性能优化\n 请前往GitHub下载",
+  "updateTime": "2024年08月13日18:37:36"
 }
