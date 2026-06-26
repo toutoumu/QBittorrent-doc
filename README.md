@@ -1,6 +1,6 @@
 ## 管理你的QBittorrent,Transmission
 
-此项目仅用于收集bug, 并非项目源码, IOS版由于没有开发者账号, 以及电脑无法升级到最新Mac系统无法发布
+此项目仅用于收集bug, 并非项目源码, IOS版已上架应用市场 直接搜索 QBittorrent Client 即可下载
 
 ### 关注我获取更新dev
 
