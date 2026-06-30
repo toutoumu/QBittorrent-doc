@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "description": "版本号:1.0.5\n更新内容\n 1. 更新Flutter SDK版本\n 2.修复网络访问问题 \n 请前往GitHub下载",
-  "updateTime": "2025年05月29日09:12:31"
+  "version": "1.0.6",
+  "description": "版本号:1.0.6\n更新内容\n 1. 更新Flutter SDK版本\n 2.修复服务端5.x无法登录问题\n 3. 修复详情页设置下载速度限制,分享率问题 \n 请前往GitHub下载",
+  "updateTime": "2026年06月15日13:42:31"
 }
