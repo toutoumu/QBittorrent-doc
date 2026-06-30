@@ -1,6 +1,6 @@
 # QBittorrent Client & FileZen
 
-这里是 QBittorrent Client 与 FileZen 的反馈、说明和下载入口。两个 App 都已经上架 App Store，欢迎下载 iOS / iPadOS 版本体验。
+这里是 QBittorrent Client 与 FileZen 的反馈、说明和下载入口。两个 App 都已经上架 App Store，欢迎下载 iOS / iPadOS 版本体验；QBittorrent Client 的 Android 版 APK 也会通过本 GitHub 仓库发布。
 
 ## App Store 下载
 
@@ -9,13 +9,18 @@
 | QBittorrent Client | [App Store 中国区](https://apps.apple.com/cn/app/qbittorrent-client/id6779680498) | [App Store](https://apps.apple.com/app/id6779680498) | [技术支持](https://toutoumu.github.io/qbWeb/) |
 | FileZen | [App Store 中国区](https://apps.apple.com/cn/app/filezen/id6764205706) | [App Store](https://apps.apple.com/app/id6764205706) | [技术支持](https://toutoumu.github.io/) |
 
+## Android APK 下载
+
+QBittorrent Client Android 版 APK 发布在本 GitHub 仓库中。Android 用户可以前往 [GitHub Releases](https://github.com/toutoumu/QBittorrent-doc/releases) 下载最新 APK；版本更新信息可查看 [versions/config.json](versions/config.json)。
+
 ## QBittorrent Client
 
-QBittorrent Client 是一款用于连接和管理 qBittorrent Web UI 或 Transmission Web UI 的第三方移动端客户端。它适合已经在 NAS、家庭服务器、VPS 或个人电脑上部署 qBittorrent 或 Transmission 的用户，让你可以直接在 iPhone 或 iPad 上查看下载进度、添加任务、管理文件和调整常用设置。
+QBittorrent Client 是一款用于连接和管理 qBittorrent Web UI 或 Transmission Web UI 的第三方移动端客户端。它适合已经在 NAS、家庭服务器、VPS 或个人电脑上部署 qBittorrent 或 Transmission 的用户，让你可以直接在 iPhone、iPad 或 Android 设备上查看下载进度、添加任务、管理文件和调整常用设置。
 
 ### 为什么值得下载
 
 - 远程连接你自己的 qBittorrent Web UI 或 Transmission Web UI，集中管理下载任务。
+- 同时面向 qBittorrent 和 Transmission 用户，适合 NAS、家庭服务器和 VPS 下载环境。
 - 查看下载、上传、暂停、完成等状态，速度、进度、大小、剩余时间一目了然。
 - 支持添加磁力链接和 torrent 任务，在移动端发起远程下载更方便。
 - 支持任务详情、文件列表、Tracker、RSS、数据统计、分类与标签等常用管理场景。
@@ -28,7 +33,7 @@ QBittorrent Client 是一款用于连接和管理 qBittorrent Web UI 或 Transmi
 1. 在 App 中点击 `添加服务器并登录`。
 2. 输入备注名称，例如 `NAS` 或 `Home Server`。
 3. 填写服务器地址。如果浏览器访问地址是 `http://192.168.3.100:8080`，App 中填写 `192.168.3.100:8080`，并按需切换 `http://` / `https://`。
-4. 输入 qBittorrent Web UI 的用户名和密码，服务器类型选择 `QBittorrent`。
+4. 输入 Web UI 的用户名和密码，服务器类型按实际环境选择 `QBittorrent` 或 `Transmission`。
 5. 保存并登录后，即可在手机上管理远程下载。
 
 ### QBittorrent Client 截图
