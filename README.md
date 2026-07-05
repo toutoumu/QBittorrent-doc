@@ -69,8 +69,7 @@ FileZen 的核心能力可以免费体验，部分高级能力可通过激励广
 
 <img src="images/wechart_qr.jpg" width="120" alt="微信二维码"/>
 
-## 用爱发电
 
-如果这些 App 对你有帮助，欢迎通过下面二维码支持开发。
 
-<img src="images/wechart.jpg" width="220" alt="微信赞赏码"/> <img src="images/alipay.jpg" width="220" alt="支付宝赞赏码"/>
+
+
