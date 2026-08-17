@@ -2,6 +2,8 @@
 
 这里是 QBittorrent Client 与 FileZen 的反馈、说明和下载入口。两个 App 都已经上架 App Store，欢迎下载 iOS / iPadOS 版本体验；QBittorrent Client 的 Android 版 APK 也会通过本 GitHub 仓库发布。
 
+IOS发布遇到阻碍,十五天没动静,申请优先审批被驳回后七天无动静,请耐心等待.......
+
 ## App Store 下载
 
 | App | 中国区下载 | 其他区域下载 | 支持网站 |
